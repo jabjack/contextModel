@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\EntityFramework\\EntityFramework.csproj",
+      "projectUniqueName": "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\ContextModel\\EntityFramework.csproj",
       "projectName": "EntityFramework",
-      "projectPath": "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\EntityFramework\\EntityFramework.csproj",
+      "projectPath": "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\ContextModel\\EntityFramework.csproj",
       "packagesPath": "C:\\Users\\anairis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\EntityFramework\\obj\\",
+      "outputPath": "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\ContextModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

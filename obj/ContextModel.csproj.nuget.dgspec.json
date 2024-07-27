@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\ContextModel\\EntityFramework.csproj": {}
+    "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\ContextModel\\ContextModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\ContextModel\\EntityFramework.csproj": {
+    "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\ContextModel\\ContextModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\ContextModel\\EntityFramework.csproj",
-        "projectName": "EntityFramework",
-        "projectPath": "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\ContextModel\\EntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\ContextModel\\ContextModel.csproj",
+        "projectName": "ContextModel",
+        "projectPath": "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\ContextModel\\ContextModel.csproj",
         "packagesPath": "C:\\Users\\anairis\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\anairis\\Desktop\\doc_Main\\C#\\Practica\\ContextModel\\obj\\",
         "projectStyle": "PackageReference",
@@ -47,28 +47,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.7, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
